@@ -78,11 +78,7 @@ Background indexing never blocks the UI, ensuring smooth performance even while 
 
 ### Step 1
 
-Download:
-
-`OrcaFile_Setup.exe`
-
-from the Releases page.
+Download `OrcaFile_Setup.exe` from the [Releases page](https://github.com/shayansaha85/orcafile/releases/tag/orcafile_v1.0.0).
 
 ---
 
@@ -92,8 +88,8 @@ Run the installer.
 
 The setup wizard automatically:
 
-- installs all required dependencies
-- installs OrcaFile into **Program Files**
+- Installs all required dependencies
+- Installs OrcaFile into **Program Files**
 
 ---
 
@@ -105,15 +101,6 @@ Launch OrcaFile from:
 - Start Menu
 
 and start organizing your files.
-
----
-
-## The installer will
-
-- ✅ Install all required dependencies
-- ✅ Add OrcaFile to Program Files
-- ✅ Optionally create Desktop shortcuts
-- ✅ Optionally create Start Menu entries
 
 ---
 
