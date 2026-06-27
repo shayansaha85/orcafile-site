@@ -1,4 +1,4 @@
-# 🐋 OrcaFile
+# OrcaFile
 
 > Fast File Organizer & Visualizer
 
